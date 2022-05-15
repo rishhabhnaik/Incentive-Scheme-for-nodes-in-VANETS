@@ -1,0 +1,2 @@
+# Incentive-Scheme-for-nodes-in-VANETS
+This research project has been an attempt to model our own incentive mechanism using reputation, reward and cost based utility function. In the coalition game approach, nodes are allowed to transfer between coalitions based on the characteristic (stability) function that we have defined. Payoff distributions for Vehicular Ad Hoc Networks have been modeled based on the new coalitions formed when nodes join a coalition.
